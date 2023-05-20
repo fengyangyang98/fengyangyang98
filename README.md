@@ -1,17 +1,17 @@
 
 
 ```math
-\overbracket{
+\underbracket{
   \mathtt{\huge mail@}
     \overbracket{
       \underbracket{
-        \underbracket{\mathtt{\huge fengyangyang}}_{\mathsf{name}}
+        \overbracket{\mathtt{\huge fengyangyang}}^{\mathsf{me}}
         \mathsf{\huge 98}
-      }_{\mathsf{\Huge twitter} \atop {
-         \mathsf{\Huge wechat} \atop
-         \mathsf{\Huge github} }
+      }_{\mathsf{ twitter \\}  \cdot  \\
+         \mathsf{ wechat  \\} \cdot \\
+         \mathsf{ github} 
          }
        .\mathtt{\huge cn}
     }^{\mathsf{website}}
-}^{\mathsf{email}}
+}_{\mathsf{email}}
 ```
