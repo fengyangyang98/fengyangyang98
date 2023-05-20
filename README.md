@@ -2,16 +2,16 @@
 
 ```math
 \overbracket{
-  \text{mail}@
+  \mathtt{\huge mail@}
     \overbracket{
       \underbracket{
-        \underbracket{\text{fengyangyang}}_{\text{name}}
-        \text{98}
-      }_{\text{twitter} \atop {
-         \text{wechat} \atop
-         \text{github} }
+        \underbracket{\mathtt{\huge fengyangyang}}_{\mathsf{name}}
+        \mathsf{\huge 98}
+      }_{\mathsf{\Huge twitter} \atop {
+         \mathsf{\Huge wechat} \atop
+         \mathsf{\Huge github} }
          }
-        \text{.cn}
-    }^{\text{website}}
-}^{\text{email}}
+       .\mathtt{\huge cn}
+    }^{\mathsf{website}}
+}^{\mathsf{email}}
 ```
