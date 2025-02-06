@@ -1,11 +1,11 @@
 
 
 ```math
-\underbracket{
+\underbrace{
   \mathtt{\huge mail@}
-    \overbracket{
-      \underbracket{
-        \overbracket{\mathtt{\huge fengyangyang}}^{\mathsf{me}}
+    \overbrace{
+      \underbrace{
+        \overbrace{\mathtt{\huge fengyangyang}}^{\mathsf{me}}
         \mathsf{\huge 98}
       }_{\mathsf{ twitter \\}  \cdot  \\
          \mathsf{ wechat  \\} \cdot \\
