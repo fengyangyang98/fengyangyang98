@@ -7,7 +7,7 @@
       \underbrace{
         \overbrace{\mathtt{\huge fengyangyang}}^{\mathsf{me}}
         \mathsf{\huge 98}
-      }_{\mathsf{ twitter \\}  \cdot  \\
+      }_{\mathsf{ x \\}  \cdot  \\
          \mathsf{ wechat  \\} \cdot \\
          \mathsf{ github} 
          }
